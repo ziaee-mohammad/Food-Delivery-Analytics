@@ -39,5 +39,10 @@ This Power BI project analyzes **Zomato food delivery data**, providing insights
 ## 🤝 Contributions
 Feel free to **fork this repo** and suggest enhancements! 🚀  
 
-## 📧 Contact  
-📩 Connect with me on **www.linkedin.com/in/anoj-nisal**  
+> ### 👨🏻‍💻 *Author*
+*Mohammad Ziaee*  
+📍 Computer Science Graduate Student | AI & Data Science Enthusiast  
+🔗 [GitHub Profile](https://github.com/ziaee-mohammad)
+
+
+
