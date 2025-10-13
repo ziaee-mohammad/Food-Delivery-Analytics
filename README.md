@@ -33,6 +33,22 @@ The analysis utilizes the Zomato dataset, which includes:
    ```bash
    git clone https://github.com/ziaee-mohammad/Food-Delivery-Analytics.git
 
+   2. Open the Power BI file (FoodDeliveryDashboard.pbix) in Power BI Desktop.
+
+
+3. Refresh the data connections to load the dataset.
+
+
+---
+
+Insights
+
+Top Cities: Bengaluru, Delhi, and Hyderabad lead in the number of restaurants and orders.
+
+Cuisine Preferences: North Indian, Chinese, and Fast Food are the most popular cuisines.
+
+Online Delivery Impact: Restaurants offering online delivery tend to have higher ratings.
+
 > ### 👨🏻‍💻 *Author*
 *Mohammad Ziaee*  
 📍 Computer Science Graduate Student | AI & Data Science Enthusiast  
