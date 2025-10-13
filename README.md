@@ -32,8 +32,9 @@ The analysis utilizes the Zomato dataset, which includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ziaee-mohammad/Food-Delivery-Analytics.git
-   2. Open the Power BI file (FoodDeliveryDashboard.pbix) in Power BI Desktop.
-   3. Refresh the data connections to load the dataset.
+
+2. Open the Power BI file (FoodDeliveryDashboard.pbix) in Power BI Desktop.
+3. Refresh the data connections to load the dataset.
 
 
 ---
