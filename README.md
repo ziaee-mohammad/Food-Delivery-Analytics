@@ -1,43 +1,37 @@
-# Zomato Food Delivery - Power BI Dashboard
+# Food Delivery Analytics Dashboard 🍔📊
 
-## 📌 Overview
-This Power BI project analyzes **Zomato food delivery data**, providing insights into sales trends, user performance, and city-wise metrics. The dashboard consists of **four interactive pages** with various filters and visualizations.
+## Overview
+This project presents an interactive dashboard built using *Power BI* to analyze and visualize data from Zomato's food delivery service. The dashboard offers insights into sales trends, customer ratings, user behavior, and city-wise performance.
 
-## 📊 Dashboard Pages
-1. **Index (Home Page)**  
-   - Serves as the landing page, allowing navigation to the **Overview** page.
+---
 
-2. **Overview**  
-   - **Key Metrics:** Total Amount, Quantity, Ratings, and Orders.  
-   - **Menu-Wise Sales & Ratings:** Analysis of **Veg vs. Non-Veg sales & ratings**.  
-   - **Yearly Sales Trend:** A **line chart** showing sales trends over time.  
-   - **Dynamic City-Wise Performance:** Users can select **Top 5, 10, 20, 50, 100, or all cities** based on amount & quantity.
+## Features
+- *Interactive Filters:* Dynamic filtering by city, cuisine, price range, and rating.
+- *Sales & Ratings Analysis:* Visual representation of sales trends and average ratings over time.
+- *User Behavior Insights:* Analysis of user activity, including order frequency and preferences.
+- *City-wise Performance:* Comparison of performance metrics across different cities.
 
-3. **User Performance**  
-   - **Key Metrics:** Active Users, User Count, Ratings, and Orders.  
-   - **User Demographics:** Breakdown of users by **Age & Gender (Gained vs. Lost Users).**
+---
 
-4. **City Performance**  
-   - **City-Wise Metrics:** Sales Value, Ratings, and Active Users.  
-   - **Filters for deeper analysis:** City, Restaurant, and Rating selection.
+## Technologies Used
+- *Power BI* for dashboard creation and data visualization.
+- *DAX* for custom calculations and measures.
+- *Excel* for data cleaning and preprocessing.
 
-## 🚀 Features
-✅ Interactive Power BI visualizations  
-✅ Drill-down capability for in-depth insights  
-✅ Dynamic filters for customized analysis  
-✅ User and city-based performance evaluation  
+---
 
-## 🔥 How to Use?
-1. Download the `.pbix` file.
-2. Open it in **Power BI Desktop**.
-3. Explore the different pages and use filters for insights.
+## Dataset
+The analysis utilizes the Zomato dataset, which includes:
+- Restaurant details (name, location, cuisine, etc.)
+- Order information (order ID, amount, quantity, etc.)
+- User data (user ID, ratings, etc.)
 
-## 📂 Dataset
-- The dataset is sourced from **Zomato food delivery records**.
-- It contains sales, user demographics, and city-level details.
+---
 
-## 🤝 Contributions
-Feel free to **fork this repo** and suggest enhancements! 🚀  
+## Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ziaee-mohammad/Food-Delivery-Analytics.git
 
 > ### 👨🏻‍💻 *Author*
 *Mohammad Ziaee*  
