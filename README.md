@@ -89,6 +89,7 @@ This project is licensed under the **MIT License** — free to use and modify wi
 **Mohammad Ziaee**  
 📍 Computer Science Graduate Student | AI & Data Science Enthusiast  
 🔗 [GitHub Profile](https://github.com/ziaee-mohammad)  
+👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
 
 ---
 
